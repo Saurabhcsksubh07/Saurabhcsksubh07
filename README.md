@@ -1,41 +1,39 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/render?type=k_slice&color=gradient&height=300&section=header&text=SAURABH&fontSize=90&animation=fadeIn&fontAlignY=35&method=transparent" width="100%" />
 
-# ⚡ PRECISE DATA ARCHITECTURE & CLOUD ENGINEERING
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=500&color=42f59e&center=true&vCenter=true&width=800&lines=DATA+ANALYST+%7C+CLOUD+ARCHITECT;25K%2B+LINKEDIN+INFLUENCE;ADVANCED+SYSTEM+FORECASTING;ETL+PIPELINE+ENGINEERING" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SAURABH+CSK;DATA+ANALYST;CLOUD+DATA+ENGINEER;25K+LINKEDIN+INFLUENCE" alt="Engineering Title" />
-
----
-
-### PROFESSIONAL SUMMARY
-* *Strategic Growth: Scaled a personal community to **25,000+ followers on LinkedIn* through data-driven storytelling.
-* *Technical Focus*: Specializing in high-integrity data cleaning and predictive modeling for public health.
-* *Infrastructure Goal*: Currently architecting the transition from local analytics to scalable cloud-native data pipelines (AWS).
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saurabhcsksubh07&label=PROFILE+VIEWS&color=42f59e&style=for-the-badge" />
+</p>
 
 ---
 
-### TECH STACK INVENTORY
-<img src="https://skillicons.dev/icons?i=py,js,mysql,aws,docker,linux,pydantic,tableau&theme=dark" />
+## 🛰️ TECHNICAL ECOSYSTEM
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql,aws,docker,linux,pydantic,tableau,mongodb,git,js,react,bash&theme=dark" />
+</p>
 
 ---
 
-### 📂 SYSTEM ARCHITECTURE & REPOSITORIES
+## 🏗️ ENGINEERING CORE
 
-<table align="center">
+<table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 Predictive Modeling</h4>
+      <h3>📈 Data Analytics & Forecasting</h3>
       <ul>
-        <li><b>Dengue Forecasting</b>: Statistical modeling using climate variables.</li>
-        <li><b>Customer Analytics</b>: Automating large-scale data integrity.</li>
+        <li><b>Dengue Forecasting</b>: High-precision ARIMA modeling utilizing longitudinal climate data.</li>
+        <li><b>Market Intelligence</b>: Advanced customer data cleanup and integrity automation.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ Engineering Standards</h4>
+      <h3>☁️ Cloud & Infrastructure</h3>
       <ul>
-        <li><b>Ethical Data Framework</b>: Systematic integrity checklist.</li>
-        <li><b>Cloud Migration</b>: Optimizing data flow for scale.</li>
+        <li><b>Cloud Architecture</b>: Designing scalable AWS/Azure-based data ingestion pipelines.</li>
+        <li><b>Ethical Standards</b>: Framework development for systematic data integrity audits.</li>
       </ul>
     </td>
   </tr>
@@ -43,22 +41,26 @@
 
 ---
 
-### 📉 REAL-TIME ENGINEERING METRICS
+## 📊 ANALYTIC INTELLIGENCE (LIVE)
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saurabhcsksubh07&show_icons=true&theme=transparent&title_color=00FF41&text_color=ffffff&icon_color=00FF41&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhcsksubh07&layout=compact&theme=transparent&title_color=00FF41&text_color=ffffff&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Saurabhcsksubh07&show_icons=true&theme=transparent&title_color=42f59e&text_color=ffffff&icon_color=42f59e&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhcsksubh07&layout=compact&theme=transparent&title_color=42f59e&text_color=ffffff&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabhcsksubh07&theme=transparent&fire=00FF41&ring=00FF41&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabhcsksubh07&theme=transparent&fire=42f59e&ring=42f59e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
 </p>
 
 ---
 
-<div align="center">
+## 🌐 NETWORK & CONNECTIVITY
 
-### CONNECT / INQUIRIES
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-25K_FOLLOWERS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/render?type=k_slice&color=gradient&height=100&section=footer&method=transparent" width="100%" />
 
 </div>
