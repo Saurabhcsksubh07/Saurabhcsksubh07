@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=SAURABH+!!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=SAURABH+!!" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=DATA+ANALYST;ASPIRING+CLOUD+DATA+ENGINEER;25K+LINKEDIN+COMMUNITY" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&lines=DATA+ANALYST;ASPIRING+CLOUD+DATA+ENGINEER;25K+LINKEDIN+COMMUNITY" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saurabhcsksubh07&label=SYSTEM+TRAFFIC&color=00FF41&style=flat-square" />
@@ -43,7 +43,7 @@
 
 ### 🌐 GLOBAL CONNECTIVITY
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-25K_FOLLOWERS-0077B5?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-25K_FOLLOWERS-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 </div>
