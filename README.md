@@ -1,68 +1,54 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/render?type=k_slice&color=gradient&height=280&section=header&text=SAURABH&fontSize=90&animation=fadeIn&fontAlignY=35&method=transparent" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2000&pause=500&color=42f59e&center=true&vCenter=true&width=800&lines=DATA+ANALYST+%7C+CLOUD+ARCHITECT;25K%2B+LINKEDIN+COMMUNITY;ADVANCED+SYSTEM+FORECASTING;ETL+PIPELINE+ENGINEERING" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=SAURABH&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2000&pause=500&color=42f59e&center=true&vCenter=true&width=600&lines=DATA+ANALYST;CLOUD+DATA+ENGINEER;25K+LINKEDIN+COMMUNITY" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saurabhcsksubh07&label=SYSTEM+TRAFFIC&color=42f59e&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Saurabhcsksubh07&label=SYSTEM+TRAFFIC&color=42f59e&style=flat-square" />
 </p>
 
 ---
 
-## 🛠️ TECHNICAL ECOSYSTEM
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,aws,docker,linux,pydantic,tableau,mongodb,git,js,react,bash&theme=dark" />
-</p>
+### 🛠️ TECHNICAL ECOSYSTEM
+<img src="https://skillicons.dev/icons?i=py,mysql,aws,docker,linux,pydantic,tableau,mongodb,git,js,react,bash&theme=dark" />
 
 ---
 
-## 🏗️ ENGINEERING CORE
-
-<table border="0" align="center">
+### 🏗️ CORE ARCHITECTURE
+<table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Intelligence & Forecasting</h3>
-      <ul>
-        <li><b>Dengue Forecasting</b>: High-precision ARIMA modeling utilizing longitudinal climate data.</li>
-        <li><b>Market Analytics</b>: Automating large-scale data integrity and pattern recognition.</li>
-      </ul>
+      <b>📊 Intelligence & Forecasting</b><br>
+      • High-precision ARIMA modeling for health trends.<br>
+      • Automated data integrity and pattern recognition.
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Infrastructure & Ethics</h3>
-      <ul>
-        <li><b>Cloud Architecture</b>: Designing scalable AWS-based data ingestion pipelines.</li>
-        <li><b>Data Integrity</b>: Development of systematic frameworks for professional data audits.</li>
-      </ul>
+      <b>☁️ Infrastructure & Cloud</b><br>
+      • Designing scalable AWS-based data ingestion.<br>
+      • Frameworks for professional data auditing.
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 LIVE ANALYTIC DASHBOARD
+### 🐍 CONTRIBUTION SNAKE
+<img src="https://github-contribution-grid-snake.vercel.app/api?github=Saurabhcsksubh07&color_snake=%2342f59e&color_dots=%23161b22%2C%230e4429%2C%2326a641%2C%2339d353" alt="Snake Animation" width="100%" />
 
-<p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Saurabhcsksubh07&show_icons=true&theme=transparent&title_color=42f59e&text_color=ffffff&icon_color=42f59e&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhcsksubh07&layout=compact&theme=transparent&title_color=42f59e&text_color=ffffff&hide_border=true" />
-</p>
+---
 
+### 📊 ANALYTIC DASHBOARD
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabhcsksubh07&theme=transparent&fire=42f59e&ring=42f59e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Saurabhcsksubh07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhcsksubh07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 GLOBAL CONNECTIVITY
-
+### 🌐 CONNECTIVITY
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-25K_FOLLOWERS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/GMAIL-DIRECT_CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-25K_FOLLOWERS-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/render?type=k_slice&color=gradient&height=80&section=footer&method=transparent" width="100%" />
-
 </div>
-    
-
