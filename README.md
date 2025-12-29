@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=SAURABH+!!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=100&lines=SAURABH+!!" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&lines=DATA+ANALYST;ASPIRING+CLOUD+DATA+ENGINEER;25K+LINKEDIN+COMMUNITY" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&height=50&lines=DATA+ANALYST;ASPIRING+CLOUD+DATA+ENGINEER;25K+LINKEDIN+COMMUNITY" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saurabhcsksubh07&label=SYSTEM+TRAFFIC&color=00FF41&style=flat-square" />
@@ -20,12 +20,12 @@
   <tr>
     <td width="50%" valign="top">
       <b>📊 Intelligence & Forecasting</b><br>
-      • Data Analyst specializing in high-precision ARIMA modeling.<br>
+      • Data Analyst specializing in high-precision ARIMA modeling. <br>
       • Automated data integrity and pattern recognition systems.
     </td>
     <td width="50%" valign="top">
       <b>☁️ Infrastructure & Cloud</b><br>
-      • Designing scalable AWS-based data ingestion pipelines.<br>
+      • Designing scalable AWS-based data ingestion pipelines. <br>
       • Developing frameworks for professional data auditing.
     </td>
   </tr>
