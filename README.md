@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=00FF41&height=220&section=header&text=SAURABH&fontSize=80&animation=fadeIn&fontAlignY=38&method=transparent" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=SAURABH+!!" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=DATA+ANALYST;ASPIRING+CLOUD+DATA+ENGINEER;25K+LINKEDIN+COMMUNITY" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=DATA+ANALYST;ASPIRING+CLOUD+DATA+ENGINEER;25K+LINKEDIN+COMMUNITY" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saurabhcsksubh07&label=SYSTEM+TRAFFIC&color=00FF41&style=flat-square" />
@@ -33,14 +33,10 @@
 
 ---
 
-### 📈 ANALYTIC DASHBOARD (LIVE)
+### 📊 SYSTEM PERFORMANCE (LIVE)
 <p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Saurabhcsksubh07&show_icons=true&theme=transparent&title_color=00FF41&text_color=ffffff&icon_color=00FF41&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhcsksubh07&layout=compact&theme=transparent&title_color=00FF41&text_color=ffffff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabhcsksubh07&theme=transparent&fire=00FF41&ring=00FF41&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Saurabhcsksubh07&show_icons=true&theme=dark&title_color=00FF41&icon_color=00FF41&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhcsksubh07&layout=compact&theme=dark&title_color=00FF41&hide_border=true" />
 </p>
 
 ---
